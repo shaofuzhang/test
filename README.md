@@ -1,4 +1,4 @@
-const vscode = require('vscode');
+ const vscode = require('vscode');
 const { PullRequestsProvider } = require('./src/pullRequestsProvider');
 const { WelcomeProvider } = require('./src/welcomeProvider');
 const { CNBApi } = require('./src/cnbApi');
